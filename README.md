@@ -3,11 +3,13 @@
 
 ## Sample
 litwo ! ojczyzno moja ! ty jesteś jak zdrowie. 
+
 ile cię trzeba dotknąć razy żeby się człowiek poparzył ? 
 
 ## How to?
 Check `tutorial.ipynb`.
 
 ## Questions
-** Will you add more models? **
+**Will you add more models?**
+
 Maybe in the future.
